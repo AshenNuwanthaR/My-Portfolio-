@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="309f4fd2-7047-4bdd-ac2c-4738b13d5925" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1234/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1234/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1234/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1234/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1234/src/main/java/lk/ijse/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1234/src/main/java/lk/ijse/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank Management System/Bank Management System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoException/DemoException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GDSE 69/GDSE 69.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GDSE69 threads/GDSE69 threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GDSE_69-main/GDSE 69.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LA_RULES/LA_RULES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LIbrary management System/LIbrary management System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample/Sample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Studentsrecords/Studentsrecords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collection-api-master/collection-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expection/expection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java package/java package.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice-collection/practice-collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro1/pro1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my-website/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2km1khVSgGFUI5fbkAXydldhnxP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/ashen/IdeaProjects/normalize.css/src/main/java/lk/ijse/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="309f4fd2-7047-4bdd-ac2c-4738b13d5925" name="Changes" comment="" />
+      <created>1723874084644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723874084644</updated>
+    </task>
+    <servers />
+  </component>
+</project>

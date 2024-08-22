@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LmbaExpression" />
+        <module name="Extend-Thread-Class" />
+        <module name="Runnable-interface" />
+        <module name="Threadpool" />
+        <module name="Thread-in-java" />
+        <module name="Thread_priorty" />
+        <module name="Inter_thread_cominication" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
